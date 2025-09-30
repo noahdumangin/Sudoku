@@ -1,11 +1,3 @@
-#################################################
-#               A completer !                   #
-#                                               #
-# Nom et prenom binome 1 : Dumangin Noah        #
-# Nom et prenom binome 2 : Sihr Victor          #
-#################################################
-
-
 # ===== Section donnees =====  
 .data
     filename: .asciiz "/Users/victor/Cours/SAE_Assembleur/sudoku.txt" #chemin absolue du fichier
